@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/notre-beau-tandem/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Notre Beau Tandem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/notre-beau-tandem/) |
+| **Get License** | [Official Music Licensing for Notre Beau Tandem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/notre-beau-tandem/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit noire, tes yeux sont mon seul phare
+> Un regard de toi, et tout s'arrête, c'est bizarre
+> Je perds le contrôle, attiré par ton aura
+> Mon cœur s'emballe, bébé, dis-moi où ça ira
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
