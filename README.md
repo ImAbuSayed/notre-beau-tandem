@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/notre-beau-tandem/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Notre Beau Tandem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/notre-beau-tandem/) |
+| **Get License** | [Request Licensing for Notre Beau Tandem](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/notre-beau-tandem/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4304b4db8a110386747ac9b80a71e730809ad5269ee5009552274b8fe3b4b5b2` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
